@@ -1,0 +1,3 @@
+[submodule "SomeSubmodules"]
+	path = SomeSubmodules
+	url = git@github.com:turly221/SomeSubmodules.git
